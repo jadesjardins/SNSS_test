@@ -4882,12 +4882,12 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding: 48px 0;
+    padding: 6px 0;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 16px;
+    padding-left: 16px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
